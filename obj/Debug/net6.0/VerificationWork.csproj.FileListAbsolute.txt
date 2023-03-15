@@ -1,0 +1,15 @@
+E:\Обучение\Разработчик\I курс\Итоги блока. Выбор специализации\VerificationWork\bin\Debug\net6.0\VerificationWork.exe
+E:\Обучение\Разработчик\I курс\Итоги блока. Выбор специализации\VerificationWork\bin\Debug\net6.0\VerificationWork.deps.json
+E:\Обучение\Разработчик\I курс\Итоги блока. Выбор специализации\VerificationWork\bin\Debug\net6.0\VerificationWork.runtimeconfig.json
+E:\Обучение\Разработчик\I курс\Итоги блока. Выбор специализации\VerificationWork\bin\Debug\net6.0\VerificationWork.dll
+E:\Обучение\Разработчик\I курс\Итоги блока. Выбор специализации\VerificationWork\bin\Debug\net6.0\VerificationWork.pdb
+E:\Обучение\Разработчик\I курс\Итоги блока. Выбор специализации\VerificationWork\obj\Debug\net6.0\VerificationWork.csproj.AssemblyReference.cache
+E:\Обучение\Разработчик\I курс\Итоги блока. Выбор специализации\VerificationWork\obj\Debug\net6.0\VerificationWork.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение\Разработчик\I курс\Итоги блока. Выбор специализации\VerificationWork\obj\Debug\net6.0\VerificationWork.AssemblyInfoInputs.cache
+E:\Обучение\Разработчик\I курс\Итоги блока. Выбор специализации\VerificationWork\obj\Debug\net6.0\VerificationWork.AssemblyInfo.cs
+E:\Обучение\Разработчик\I курс\Итоги блока. Выбор специализации\VerificationWork\obj\Debug\net6.0\VerificationWork.csproj.CoreCompileInputs.cache
+E:\Обучение\Разработчик\I курс\Итоги блока. Выбор специализации\VerificationWork\obj\Debug\net6.0\VerificationWork.dll
+E:\Обучение\Разработчик\I курс\Итоги блока. Выбор специализации\VerificationWork\obj\Debug\net6.0\refint\VerificationWork.dll
+E:\Обучение\Разработчик\I курс\Итоги блока. Выбор специализации\VerificationWork\obj\Debug\net6.0\VerificationWork.pdb
+E:\Обучение\Разработчик\I курс\Итоги блока. Выбор специализации\VerificationWork\obj\Debug\net6.0\VerificationWork.genruntimeconfig.cache
+E:\Обучение\Разработчик\I курс\Итоги блока. Выбор специализации\VerificationWork\obj\Debug\net6.0\ref\VerificationWork.dll
